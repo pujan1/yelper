@@ -1,2 +1,0 @@
-# yelper
-Created with CodeSandbox
